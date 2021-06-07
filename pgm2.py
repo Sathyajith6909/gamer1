@@ -18,3 +18,6 @@ def encode_string(str1):
 print(encode_string("AAAABBBCCDAAA")) 
 print(encode_string("PHP"))  
 print(encode_string("AAAABBBCCCDAABDAAAAC"))
+print(encode_string("AAAABBBCCCDAABDAAAAC"))
+print(encode_string("AAAABBBCCCDAABDAAAAC"))
+print(encode_string("AAAABBBCCCDAABDAAAAC"))
